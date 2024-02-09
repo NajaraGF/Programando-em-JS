@@ -1,6 +1,6 @@
 # Programando em JavaScript
 
-Introdução a Linguagem, exemplo:
+Este repositório tem como objetivo um estudo inicial da linguagem programação Javascript. Sendo assim, o código realiza algumas operações, como:
 
 - Realizar operações simples e escrevendo código, como por exemplo: 
 const idade = 26
